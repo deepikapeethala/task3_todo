@@ -1,0 +1,16 @@
+body{
+    padding:0;
+    margin:0;
+}
+.todo{
+background: lightcoral;
+    padding:20px;
+    text-align:center;
+    justify-content: center;
+    align-items: center;
+}
+.items{
+    text-align:center;
+    justify-content: center;
+    align-items: center;
+}
